@@ -1,1 +1,1 @@
-const String baseUrl = "http://195.54.32.97:8383/";
+const String baseUrl = "http://195.54.32.97:8383/api/users/refresh";
